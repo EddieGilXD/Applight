@@ -17,21 +17,21 @@
 }
 
 html body section.feature.section-padding .container .row .col-md-12 .section-content.text-center .row  .media.single-feature.wow.fadeInUp .icon-border span.fa::before{
-    color: #f775b4 !iportant;
+    color: #f775b4;
 }
 
 html body section.team.section-padding>div.container>div.row>div.col-md-12>.sectioner-header.text-center:nth-child(1) { 
-    border: solid !important;
-    border-color: #8D1EFB !important;
-    border-width: 1px !important;
+    border: solid;
+    border-color: #8D1EFB;
+    border-width: 1px;
 }
 
 html>body>section.team.section-padding>div.container div.row div.col-md-12 div.sectioner-header.text-center ~ div.section-content.text-center>div.row>div.col-md-4>div.team-detail.wow.bounce>h4 {
-    color: #2E74A7 !important;    
+    color: #2E74A7;    
 }
 
 html>body>section.testimonial.section-padding>div.container>div.row>div.col-md-12>div.section-content>div.row>div.offset-md-2.col-md-8.col-sm-12 div.slider>div.slider-item>div.test-text span.title{
-    text-decoration: underline !imortant;
+    text-decoration: underline;
 }
 html body footer.footer-copy div.container-fluid div.row div.col-md-12 p a {
     color: #844E41;
