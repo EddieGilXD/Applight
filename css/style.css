@@ -16,8 +16,9 @@
     color: #5EE25A;
 }
 
-html body section.feature.section-padding .container .row .col-md-12 .section-content.text-center .row  .media.single-feature.wow.fadeInUp .icon-border span.fa::before{
-    color: #f775b4;
+html body section.feature.section-padding .container .row .col-md-12 .section-content.text-center .row .col-md-4.col-sm-12 .media.single-feature.wow.fadeInUp .media-right.icon-border span.fa::before,
+html body section.feature.section-padding .container .row .col-md-12 .section-content.text-center .row .col-md-4.col-sm-12 .media.single-feature.wow.fadeInUp .media-left.icon-border span.fa::before{
+    color: #f775b4 
 }
 
 html body section.team.section-padding>div.container>div.row>div.col-md-12>.sectioner-header.text-center:nth-child(1) { 
@@ -26,13 +27,13 @@ html body section.team.section-padding>div.container>div.row>div.col-md-12>.sect
     border-width: 1px;
 }
 
-html>body>section.team.section-padding>div.container div.row div.col-md-12 div.sectioner-header.text-center ~ div.section-content.text-center>div.row>div.col-md-4>div.team-detail.wow.bounce>h4 {
+html>body> nav.navbar-expand-lg ~ section.banner ~ section.about.section-padding.prelative ~ section.video-section.prelative.text-center.white ~ section.feature.section-padding ~ section.team.section-padding>div.container div.row div.col-md-12 div.sectioner-header.text-center ~ div.section-content.text-center>div.row>div.col-md-4>div.team-detail.wow.bounce>h4 {
     color: #2E74A7;    
 }
 
-html>body>section.testimonial.section-padding>div.container>div.row>div.col-md-12>div.section-content>div.row>div.offset-md-2.col-md-8.col-sm-12 div.slider>div.slider-item>div.test-text span.title{
+html>body> nav.navbar-expand-lg ~ section.banner ~ section.about.section-padding.prelative ~ section.video-section.prelative.text-center.white ~ section.feature.section-padding~section.team.section-padding~section.testimonial.section-padding>div.container>div.row>div.col-md-12>div.section-content>div.row>div.offset-md-2.col-md-8.col-sm-12 div.slider>div.slider-item>div.test-text span.title{
     text-decoration: underline;
 }
-html body footer.footer-copy div.container-fluid div.row div.col-md-12 p a {
+html body nav.navbar-expand-lg ~ section.banner ~ section.about.section-padding.prelative ~ section.video-section.prelative.text-center.white ~ section.feature.section-padding ~ section.team.section-padding ~ section.testimonial.section-padding ~ section.faq.section-padding.prelative ~ section.contact.section-padding~section.download.section-padding~footer.footer-copy div.container-fluid div.row div.col-md-12 p a  {
     color: #844E41;
 }
